@@ -1,4 +1,4 @@
-# building-first-ann from the course Deep Learning (A-Z)
+# building-first-ann (Deep Learning (A-Z))
 #ann_1
 
 It is using Keras (Using TensorFlow Backend) i.e. building the NN based on TensorFlow.
