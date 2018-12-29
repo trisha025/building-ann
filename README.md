@@ -1,5 +1,5 @@
 # building-first-ann from the course Deep Learning (A-Z)
-
+#ann_1
 It is using Keras (Using TensorFlow Backend) i.e. building the NN based on TensorFlow.
 Steps to be followed are:
 
@@ -27,3 +27,11 @@ Steps to be followed are:
 7. Making predictions (initialising the threshold)
 
 8. Confusion Matrix and Accuracy 
+
+#imp-tuning-ann
+
+The file contains the evaluation, improvement of the ANN and parameter tuning. 
+
+1. K-fold Cross Validation is used for evaluating the ANN
+2. Dropout regularisation is implemented.
+3. Grid search with cross validation is used to tune the hyperparameters.
